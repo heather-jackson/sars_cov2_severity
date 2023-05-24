@@ -3,3 +3,4 @@
 Severity analyses for the Spanish COVID-19 cohort.
 Code for analysis described in: https://www.nature.com/articles/s41598-022-15547-2
 
+Data is available at ArrayExpress under accession: E-MTAB-10926
